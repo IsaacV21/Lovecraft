@@ -1,0 +1,20 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.father{
+    background: #411530;
+}
+    .section{
+        background: #D1512D;
+    }
+    .cabeza{
+        background: #F5E8E4;
+    }
+    .menuu{
+        background: #F5C7A9;
+    }
