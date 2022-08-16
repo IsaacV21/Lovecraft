@@ -129,6 +129,21 @@ a{
             .articles a:hover{
                 background: #041963;
             }
+            /* .articles figure .capaa{
+                position: absolute;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(11, 103, 123, 0.7);
+                transition: all 500ms ease-out;
+                opacity: 0;
+                visibility: hidden;
+                text-align: center;
+            }
+            .articles figure:hover > .capaa{
+                opacity: 1;
+                visibility: visible;
+            } */
             h3{
                 color: #fff;
                 font-size: 13px;
